@@ -1,5 +1,5 @@
 #!/bin/bash
 file="$1"
 echo "`sort $file | uniq `"
-echo "2"
-
+echo "3"
+echo "3"
